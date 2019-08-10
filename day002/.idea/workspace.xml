@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d09a8074-6d17-40ef-9d3e-30fd9b0f7faa" name="Default Changelist" comment="">
+    <list default="true" id="686597bf-e89b-4d04-b63d-6e67584e516f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Basic/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Basic/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Basic/.project" beforeDir="false" />
@@ -13,9 +18,10 @@
       <change beforePath="$PROJECT_DIR$/../MyProject/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyProject/src/mypackage/MyClass.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../MyProject/src/mypackage/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day001/com/lxgzhw/basic/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day001/com/lxgzhw/basic/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day001/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day001/out/production/day001/com/lxgzhw/basic/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day001/out/production/day001/com/lxgzhw/basic/Demo01.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,25 +29,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/basic/Demo01.java">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +67,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lxgzhw/basic/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice02.java" />
       </list>
     </option>
   </component>
@@ -80,29 +85,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="day001" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day001" type="462c0819:PsiDirectoryNode" />
+              <item name="day002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day002" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="datatype" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565333823370" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565397899598" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,12 +140,14 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.basic.Demo01" />
-      <module name="day001" />
+    <configuration name="Practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:/Dev/Java/v1.8_jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.datatype.Practice02" />
+      <module name="day002" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lxgzhw.basic.*" />
+          <option name="PATTERN" value="com.lxgzhw.datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,7 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Practice02" />
       </list>
     </recent_temporary>
   </component>
@@ -141,75 +166,89 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d09a8074-6d17-40ef-9d3e-30fd9b0f7faa" name="Default Changelist" comment="" />
-      <created>1565332007201</created>
+      <changelist id="686597bf-e89b-4d04-b63d-6e67584e516f" name="Default Changelist" comment="" />
+      <created>1565397672276</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565332007201</updated>
-      <workItem from="1565332010842" duration="845000" />
-      <workItem from="1565397649580" duration="30000" />
+      <updated>1565397672276</updated>
+      <workItem from="1565397681195" duration="278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="875000" />
+    <option name="totallyTimeSpent" value="278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="990" y="-1" width="928" height="1046" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18837209" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/basic/Demo01.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/datatype/Practice02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

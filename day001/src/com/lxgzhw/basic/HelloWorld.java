@@ -1,4 +1,4 @@
-package day01;//声明了一个包叫day01
+package com.lxgzhw.basic;
 
 public class HelloWorld {// 声明类HelloWorld
 
