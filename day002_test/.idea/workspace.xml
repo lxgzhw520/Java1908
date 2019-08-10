@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc168d8-ac0a-430b-bc6f-c4c6ca157e75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day002/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day002/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day002/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day002/day002.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day002/src/com/lxgzhw/datatype/Practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Basic/src/day01/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/src/mypackage/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyProject/src/mypackage/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day001/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day001/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day001/out/production/day001/com/lxgzhw/basic/Demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day001/out/production/day001/com/lxgzhw/basic/Demo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/Demo02.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -72,11 +49,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/Scanner1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/AgeRange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/LeapYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -101,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/com/lxgzhw/Demo03.java" />
         <option value="$PROJECT_DIR$/src/com/lxgzhw/Practice1.java" />
         <option value="$PROJECT_DIR$/src/com/lxgzhw/Scanner1.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/AgeRange.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/LeapYear.java" />
       </list>
     </option>
   </component>
@@ -147,7 +144,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565402089808" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565404598640" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -250,16 +247,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565397955073</updated>
-      <workItem from="1565397960521" duration="3664000" />
+      <workItem from="1565397960521" duration="4646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3664000" />
+    <option name="totallyTimeSpent" value="4646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="990" y="-1" width="928" height="1046" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -272,11 +268,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.36883408" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -306,7 +302,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -328,6 +324,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/AgeRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/LeapYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
