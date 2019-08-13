@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12d413f2-6286-4383-a75d-9063428123bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Demo01PrintArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/PhoneTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/PhoneTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/PhoneTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/PhoneTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/PhoneTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/PeronTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/StudentTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/VariableDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/PersonTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/StudentTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo05/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day005_ArrayAndFunction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day005_ArrayAndFunction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/PersonTest01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-end-line="12" />
+              <caret line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -48,11 +25,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="57">
               <caret line="4" column="38" selection-end-line="7" />
               <folding>
                 <element signature="e#72#73#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,9 +47,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo05/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="29" selection-end-line="30" />
+            <state relative-caret-position="418">
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding>
+                <element signature="e#256#257#0" expanded="true" />
                 <element signature="e#283#284#0" expanded="true" />
                 <element signature="e#323#324#0" expanded="true" />
                 <element signature="e#355#356#0" expanded="true" />
@@ -88,15 +66,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
+            <state relative-caret-position="171">
               <caret line="14" column="43" selection-end-line="17" />
               <folding>
                 <element signature="e#78#79#0" expanded="true" />
                 <element signature="e#105#106#0" expanded="true" />
                 <element signature="e#145#146#0" expanded="true" />
                 <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="988" />
     <option name="y" value="3" />
     <option name="width" value="928" />
@@ -155,8 +131,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565579666053" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565608805372" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -313,18 +289,18 @@
       <option name="presentableId" value="Default" />
       <updated>1565513388659</updated>
       <workItem from="1565513390254" duration="3382000" />
-      <workItem from="1565565698963" duration="8551000" />
+      <workItem from="1565565698963" duration="8952000" />
+      <workItem from="1565650858270" duration="172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11933000" />
+    <option name="totallyTimeSpent" value="12506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="988" y="3" width="928" height="1046" extended-state="1" />
-    <editor active="true" />
+    <frame x="988" y="3" width="928" height="1046" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25697675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26395348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +309,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -514,35 +490,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="43" selection-end-line="17" />
-          <folding>
-            <element signature="e#78#79#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/PersonTest01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-end-line="12" />
+          <caret line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="57">
           <caret line="4" column="38" selection-end-line="7" />
           <folding>
             <element signature="e#72#73#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -554,11 +515,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="43" selection-end-line="17" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo05/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="29" selection-end-line="30" />
+        <state relative-caret-position="418">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
           <folding>
+            <element signature="e#256#257#0" expanded="true" />
             <element signature="e#283#284#0" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
             <element signature="e#355#356#0" expanded="true" />
