@@ -385,7 +385,7 @@ public class Practice02 {
 - 修饰成员变量的情况
 
 ```java
-package com.lxgzhw.demo02;
+package com.lxgzhw.com.lxgzhw.demo02;
 
 public class Student {
     private int id;//学号
@@ -437,7 +437,7 @@ public class Student {
 > 测试
 
 ```java
-package com.lxgzhw.demo02;
+package com.lxgzhw.com.lxgzhw.demo02;
 
 public class Static01 {
     public static void main(String[] args) {
@@ -471,7 +471,7 @@ public class Static01 {
 > 定义
 
 ```java
-package com.lxgzhw.demo02;
+package com.lxgzhw.com.lxgzhw.demo02;
 
 public class MyClass {
     public static void show(){
@@ -483,7 +483,7 @@ public class MyClass {
 > 调用
 
 ```java
-package com.lxgzhw.demo02;
+package com.lxgzhw.com.lxgzhw.demo02;
 
 public class Static02 {
     public static void main(String[] args) {
@@ -521,7 +521,7 @@ public class 类名称{
 - 代码演示
 
 ```java
-package com.lxgzhw.demo02;
+package com.lxgzhw.com.lxgzhw.demo02;
 
 public class Static03 {
     static {

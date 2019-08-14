@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day008_StringArraysMath.iml" filepath="$PROJECT_DIR$/day008_StringArraysMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/day009_ExtendsSuperThisAbstract.iml" filepath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/day009_ExtendsSuperThisAbstract.iml" />
     </modules>
   </component>
 </project>
