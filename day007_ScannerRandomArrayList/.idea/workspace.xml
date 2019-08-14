@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9d0ba3-dddb-4b12-bb5d-d02f5c61bfca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Scanner01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Scanner02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Scanner03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/Anonymous01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/Anonymous02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Random01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Random02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Random03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo03/Random04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo04/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day006_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day006_OOP/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0f9d0ba3-dddb-4b12-bb5d-d02f5c61bfca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -245,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565663699629" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565686901403" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
@@ -348,12 +323,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565651030226</updated>
-      <workItem from="1565651031997" duration="11603000" />
+      <workItem from="1565651031997" duration="14013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11603000" />
+    <option name="totallyTimeSpent" value="14013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="988" y="3" width="928" height="1046" extended-state="0" />
@@ -364,17 +339,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -583,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo04/ArrayList09.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
