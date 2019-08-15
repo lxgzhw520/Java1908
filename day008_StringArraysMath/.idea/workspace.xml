@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c1eb78-d113-4190-bec9-adf4b544936f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/day009_ExtendsSuperThisAbstract.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo01/Assistant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo01/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo01/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo02/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo02/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo02/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo03/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo03/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo03/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo04/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo04/NewPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo04/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo05/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo05/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo06/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo06/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo06/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b3c1eb78-d113-4190-bec9-adf4b544936f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Member.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+              <caret line="19" column="18" lean-forward="true" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
@@ -53,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -71,7 +43,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -188,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565776137530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565776389418" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -304,12 +276,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565739383782</updated>
-      <workItem from="1565739385728" duration="20614000" />
+      <workItem from="1565739385728" duration="21508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20614000" />
+    <option name="totallyTimeSpent" value="21508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="988" y="3" width="928" height="1046" extended-state="0" />
@@ -320,17 +292,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3295964" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -691,25 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -721,6 +674,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="29" column="15" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" lean-forward="true" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day009_ExtendsSuperThisAbstract/src/com/lxgzhw/demo07/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
