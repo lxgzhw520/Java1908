@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d551169-e6e6-40fe-b874-457e4d19ba17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo01/Stream/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo01/Stream/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo02/Stream/Demo08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo03/Reference/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo03/Reference/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo03/Reference/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo03/Reference/Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo03/Reference/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo04/Super/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo04/Super/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/src/com/lxgzhw/demo04/Super/Meet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../day024_StreamAndFunctionReference/README.md" afterDir="false" />
+    <list default="true" id="79c3cd59-e011-46de-966c-6e9284dd3d92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prop.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day025_Reflect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day025_Reflect.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,19 +24,129 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="39" column="37" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <element signature="e#73#74#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/prop.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="787">
-                <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -52,7 +154,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo01.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo02.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo03.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/domain/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo04.java" />
+        <option value="$PROJECT_DIR$/src/prop.properties" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo05.java" />
       </list>
     </option>
   </component>
@@ -63,13 +173,14 @@
     <option name="height" value="1046" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,17 +188,46 @@
               <item name="day025_Reflect" type="b2602c69:ProjectViewProjectNode" />
               <item name="day025_Reflect" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day025_Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day025_Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day025_Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day025_Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day025_Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day025_Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day025_Reflect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day025_Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567079457986" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -103,34 +243,124 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Demo05">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.demo01.Reflect.Demo01" />
+      <module name="day025_Reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.demo01.Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.demo01.Reflect.Demo02" />
+      <module name="day025_Reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.demo01.Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.demo01.Reflect.Demo03" />
+      <module name="day025_Reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.demo01.Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.demo01.Reflect.Demo04" />
+      <module name="day025_Reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.demo01.Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.demo01.Reflect.Demo05" />
+      <module name="day025_Reflect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.demo01.Reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo05" />
+        <item itemvalue="Application.Demo04" />
+        <item itemvalue="Application.Demo03" />
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d551169-e6e6-40fe-b874-457e4d19ba17" name="Default Changelist" comment="" />
-      <created>1567067683270</created>
+      <changelist id="79c3cd59-e011-46de-966c-6e9284dd3d92" name="Default Changelist" comment="" />
+      <created>1567068389219</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567067683270</updated>
-      <workItem from="1567067684744" duration="48000" />
+      <updated>1567068389219</updated>
+      <workItem from="1567068390916" duration="4458000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Demo_show - 2019.08.29 at 16h 47m 20s.xml">
+      <configuration name="Demo.show" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_show - 2019.08.29 at 16h 47m 55s.xml">
+      <configuration name="Demo.show" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_show - 2019.08.29 at 16h 48m 06s.xml">
+      <configuration name="Demo.show" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demo_show - 2019.08.29 at 16h 49m 01s.xml">
+      <configuration name="Demo.show" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48000" />
+    <option name="totallyTimeSpent" value="4458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="988" y="3" width="928" height="1046" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -138,7 +368,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -161,10 +391,105 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="787">
-            <caret line="209" lean-forward="true" selection-start-line="209" selection-end-line="209" />
-          </first_editor>
+          <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="39" column="37" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#73#74#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prop.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/demo01/Reflect/Demo05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
