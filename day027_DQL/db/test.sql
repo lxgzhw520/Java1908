@@ -1,0 +1,2 @@
+SHOW TABLES;
+-- 哈哈哈
