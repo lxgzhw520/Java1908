@@ -1,0 +1,5 @@
+CREATE TABLE account(
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  NAME VARCHAR(24),-- 姓名
+  money DOUBLE(7,2),-- 金额
+);
