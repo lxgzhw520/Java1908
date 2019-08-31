@@ -1,0 +1,4 @@
+SHOW TABLES;
+SELECT * FROM account;
+
+INSERT INTO account VALUES(NULL,"楚枫",10000);
