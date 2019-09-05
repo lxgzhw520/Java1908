@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>遍历</title>
+</head>
+<body>
+<ul id="city">
+    <li>北京</li>
+    <li>上海</li>
+    <li>天津</li>
+    <li>重庆</li>
+</ul>
+<script src="jquery-3.3.1.min.js"></script>
+<script>
+    $(function () {
+        let citys = $("#city")
+        for (li of citys){
+            alert($(li).html())
+        }
+    })
+</script>
+</body>
+</html>

@@ -1,39 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="day035_JSP:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="55180fc2-7cd3-41d4-b74f-1a6ae66965eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day033_Response/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/download/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/servlet/Demo06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/src/com/lxgzhw/web/utils/DownloadUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/web/download.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day033_Response/web/中文名.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/cookie/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/cookie/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/cookie/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/cookie/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/cookie/Demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/servlet/Captcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/session/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/session/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/src/com/lxgzhw/web/session/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day034_CookieAndSession/web/time.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day033_Response/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day033_Response/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day033_Response/day033_Response.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day033_Response/day033_Response.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/web/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/el/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/el/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstl/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstl/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstl/demo03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jstl/demo04.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_Project01UserInfo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_Project01UserInfo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_Project01UserInfo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day035_JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day035_JSP.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,16 +36,120 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/demo01.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/500.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/el/demo01.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="25" column="17" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/el/demo02.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jstl/demo01.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jstl/demo02.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jstl/demo03.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="53" column="7" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/domain/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1141#1142#0" expanded="true" />
+                <element signature="e#1172#1173#0" expanded="true" />
+                <element signature="e#1218#1219#0" expanded="true" />
+                <element signature="e#1258#1259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/jstl/demo04.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -62,8 +158,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/demo01.jsp" />
+        <option value="$PROJECT_DIR$/web/500.jsp" />
+        <option value="$PROJECT_DIR$/web/el/demo01.jsp" />
+        <option value="$PROJECT_DIR$/web/el/demo02.jsp" />
+        <option value="$PROJECT_DIR$/web/jstl/demo01.jsp" />
+        <option value="$PROJECT_DIR$/web/jstl/demo02.jsp" />
+        <option value="$PROJECT_DIR$/web/jstl/demo03.jsp" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/web/domain/User.java" />
+        <option value="$PROJECT_DIR$/web/jstl/demo04.jsp" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="909" />
@@ -71,7 +183,9 @@
     <option name="width" value="1007" />
     <option name="height" value="1046" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -91,6 +205,31 @@
               <item name="day035_JSP" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day035_JSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day035_JSP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="el" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day035_JSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day035_JSP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jstl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day035_JSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day035_JSP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day035_JSP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day035_JSP" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,9 +239,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567383462061" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567391356829" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Dev/TomCat/8/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaTutorial\Java1908\day035_JSP\web\WEB-INF" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,12 +353,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567383221951</updated>
-      <workItem from="1567383225838" duration="132000" />
+      <workItem from="1567383225838" duration="5539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132000" />
+    <option name="totallyTimeSpent" value="5539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="909" y="3" width="1007" height="1046" extended-state="0" />
@@ -221,18 +370,19 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37060702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" visible="true" weight="0.3295964" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -252,12 +402,176 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/demo01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/500.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/el/demo01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="25" column="17" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/el/demo02.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jstl/demo01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jstl/demo02.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jstl/demo03.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="53" column="7" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1141#1142#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jstl/demo04.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="40" selection-start-line="40" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>day035_JSP:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day035_JSP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

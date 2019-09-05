@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>省份</title>
+</head>
+<body>
+<form action="">
+    <select name="province" id="province">
+        <option value="">--请选择省份--</option>
+    </select>
+</form>
+<script src="js/jquery-3.3.1.min.js"></script>
+<script>
+    $(function () {
+        //1.发送ajax请求,加载所有的省份数据
+        $.get("/provinceServlet", {}, function (data) {
+            //1.获取select
+            let province = $("#province")
+            //2.遍历json数组
+            $(data).each(function () {
+                //3.创建option
+                let option = "<option name='" + this.id + "'>" + this.name + "</option>";
+                //4.追加option
+                province.append(option)
+            })
+        })
+
+    })
+</script>
+</body>
+</html>

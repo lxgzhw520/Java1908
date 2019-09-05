@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>post</title>
+</head>
+<body>
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+<script>
+    $(function () {
+        $.post("/ajax", {username: "张大鹏"}, function (data) {
+            alert(data)
+        }, "text")
+    })
+</script>
+</body>
+</html>

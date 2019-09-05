@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="day038_AjaxAndJson:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7807f194-9cb2-438a-9d46-acaa46c076c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/.idea/libraries/lib2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/src/com/lxgzhw/web/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/500.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/el/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/el/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/jstl/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/jstl/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/jstl/demo03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day035_JSP/web/jstl/demo04.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo02.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo03.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo04.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo05.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo06.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo07.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo08.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo09.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/demo10.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day036_jQueryBasic/web/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/demo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/demo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/demo03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/demo04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day037_jQueryAdvance/web/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/test/JacksonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/web/servlet/AjaxServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lxgzhw/web/servlet/CheckUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/demo03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day035_JSP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day035_JSP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day035_JSP/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../day035_JSP/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day035_JSP/day035_JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day035_JSP/day035_JSP.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/servlet/AjaxServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/demo01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/demo02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="25" column="5" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/test/JacksonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="46" column="22" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/demo03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="7" selection-end-line="23" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/servlet/CheckUserServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/web/servlet/AjaxServlet.java" />
+        <option value="$PROJECT_DIR$/web/demo01.html" />
+        <option value="$PROJECT_DIR$/web/demo02.html" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/test/JacksonTest.java" />
+        <option value="$PROJECT_DIR$/web/demo03.html" />
+        <option value="$PROJECT_DIR$/src/com/lxgzhw/web/servlet/CheckUserServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="909" />
+    <option name="y" value="3" />
+    <option name="width" value="1007" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lxgzhw" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day038_AjaxAndJson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day038_AjaxAndJson" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery-3.3.1.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567519661798" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\JavaTutorial\Java1908\day038_AjaxAndJson\web\WEB-INF\lib" />
+      <recent name="D:\Java\JavaTutorial\Java1908\day038_AjaxAndJson\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
+    <configuration name="JacksonTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day038_AjaxAndJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxgzhw.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day038_AjaxAndJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxgzhw.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day038_AjaxAndJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxgzhw.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day038_AjaxAndJson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lxgzhw.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lxgzhw.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lxgzhw.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="day038_AjaxAndJson:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_day038_AjaxAndJson" />
+        <option name="HTTP_PORT" value="80" />
+        <option name="JNDI_PORT" value="1088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1208" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day038_AjaxAndJson:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JacksonTest.test01" />
+      <item itemvalue="JUnit.JacksonTest.test02" />
+      <item itemvalue="JUnit.JacksonTest.test03" />
+      <item itemvalue="JUnit.JacksonTest.test04" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JacksonTest.test04" />
+        <item itemvalue="JUnit.JacksonTest.test03" />
+        <item itemvalue="JUnit.JacksonTest.test02" />
+        <item itemvalue="JUnit.JacksonTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7807f194-9cb2-438a-9d46-acaa46c076c1" name="Default Changelist" comment="" />
+      <created>1567516399542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567516399542</updated>
+      <workItem from="1567516402006" duration="3194000" />
+      <workItem from="1567599050090" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JacksonTest_test01 - 2019.09.03 at 21h 50m 02s.xml">
+      <configuration name="JacksonTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JacksonTest_test02 - 2019.09.03 at 21h 53m 05s.xml">
+      <configuration name="JacksonTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JacksonTest_test03 - 2019.09.03 at 21h 55m 03s.xml">
+      <configuration name="JacksonTest.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JacksonTest_test04 - 2019.09.03 at 21h 56m 31s.xml">
+      <configuration name="JacksonTest.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JacksonTest_test04 - 2019.09.03 at 21h 56m 36s.xml">
+      <configuration name="JacksonTest.test04" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="909" y="3" width="1007" height="1046" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25559106" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/person.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/servlet/AjaxServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/demo01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/demo02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="5" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/test/JacksonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="46" column="22" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/demo03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lxgzhw/web/servlet/CheckUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

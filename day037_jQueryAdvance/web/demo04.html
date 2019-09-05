@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>广告</title>
+    <style>
+        #ad {
+            width: 100%;
+            height: 300px;
+            background-color: gold;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+<div id="ad">
+    <h3>广告</h3>
+</div>
+<script src="jquery-3.3.1.min.js"></script>
+<script>
+    $(function () {
+        //加载后3秒钟显示广告
+        setTimeout(function () {
+            $("#ad").slideDown()
+        }, 3000)
+        //加载后8秒钟停止广告
+        setTimeout(function () {
+            $("#ad").slideUp()
+        }, 8000)
+    })
+</script>
+</body>
+</html>
